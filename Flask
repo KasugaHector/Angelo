@@ -1,0 +1,7 @@
+FLASK_SECRET_KEY=pon-aqui-una-clave-larga-y-aleatoria
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_USER=stockmax_user
+DB_PASSWORD=pon-aqui-la-contrasena-de-mysql
+DB_NAME=stockmax
+FLASK_DEBUG=1
